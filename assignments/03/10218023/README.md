@@ -63,5 +63,5 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
-+ ..
++ Memunculkan simbol kotak putih sesuai dengan angka yang terdapat pada NIM
++ Memunculkan simbol kotak hitam sesuai dengan angka yang terdapat pada NIM
