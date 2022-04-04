@@ -73,7 +73,8 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 
 ### answer 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
-``` Ya, penjelasan sudah dibaca.
+``` 
+Ya, penjelasan sudah dibaca.
 ```
 
 ## question 2
@@ -81,7 +82,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
-``` y = np.sin(np.pi * (x - i))
+``` 
+y = np.sin(np.pi * (x - i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right](https://raw.githubusercontent.com/amanda248la/fi3201-01-2021-2/main/assignments/04/10218023/wave1.gif)
@@ -92,7 +94,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
-```y = np.sin(np.pi*(x + i))
+```
+y = np.sin(np.pi*(x + i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left](https://raw.githubusercontent.com/amanda248la/fi3201-01-2021-2/main/assignments/04/10218023/wave2.gif)
@@ -103,7 +106,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
-```y = np.sin(np.pi * x) * np.cos(np.pi * i)
+```
+y = np.sin(np.pi * x) * np.cos(np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary](https://raw.githubusercontent.com/amanda248la/fi3201-01-2021-2/main/assignments/04/10218023/wave3.gif)
